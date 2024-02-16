@@ -30,4 +30,8 @@
 ### Step 5
 
 - Top with the thin layer of milk foam remaining in the container.
+
 - This change here will conflict with the changes done on s erver
+ 
+- I already see changed done on the local one so I can confirm the merge status
+
